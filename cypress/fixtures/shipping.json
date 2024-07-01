@@ -1,12 +1,12 @@
 {
-  "firstName": "Using fixtures to represent data",
-  "lastName": "hello@cypress.io",
-  "Company": "Fixtures are a great way to mock data for responses to routes",
-  "address1" : "",
-  "address2" : "",
-  "address3" : "",
-  "city": "",
-  "postalCode" :"",
-  "country" : "",
-  "phoneNumber" : ""
+  "firstName": "Smiley",
+  "lastName": "Covided",
+  "Company": "Pigeon de l'URSSAF... Rendez mes thunes serieux...",
+  "address1" : "Quelque part",
+  "address2" : "Plus ou moins par ici",
+  "address3" : "Mais pas tout à fait",
+  "city": "ST-ETIENNE",
+  "postalCode" :"42100",
+  "country" : "France",
+  "phoneNumber" : "0152637485"
 }
